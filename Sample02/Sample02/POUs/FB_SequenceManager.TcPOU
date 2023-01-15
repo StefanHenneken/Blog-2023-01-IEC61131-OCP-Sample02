@@ -43,7 +43,7 @@ END_VAR
       <Declaration><![CDATA[METHOD PUBLIC Sort
 VAR_INPUT
 	eSortedOrder		: E_SortedOrder;
-	eSortedDirection	: E_SortedDirection;	
+	eSortedDirection	: E_SortedDirection;
 END_VAR
 VAR
 	stLeft, stRight		: ST_SequenceItem;
@@ -153,7 +153,7 @@ END_VAR]]></Declaration>
 					bSwapped = FALSE
 				END_REPEAT;
 		END_CASE
-END_CASE 
+END_CASE
 ]]></ST>
       </Implementation>
     </Method>
